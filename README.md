@@ -1,6 +1,8 @@
 ### Application météo
-===
+
 ![](./img/weather_sf.jpg)  
+
+
 ### TODO 
 
 - [ ] créer une maquette de l'application
