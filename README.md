@@ -1,4 +1,4 @@
-###Projet Perso n°2 : Application météo
+### Application météo
 ===
 ![](./img/weather_sf.jpg)  
 ### TODO 
