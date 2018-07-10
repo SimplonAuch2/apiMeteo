@@ -11,9 +11,10 @@
 - [ ] faire en sorte que l'UI/UX soit interressante 
 	- [ ] identité visuelle
 	- [ ] logo / police / couleurs / boutons
-- [ ] affiche, par défault, la météo du jour
+
 - [ ] choix des jours de la semaine ( lundi au dimanche)
 - [ ] scrapping sur une API (météo france ou autre)
+- [ ] affiche, par défault, la météo du jour
 - [ ] choix des températures (celsius - fahrenheit // matin - après-midi)
 
 etc... à vous d'en ajouter
